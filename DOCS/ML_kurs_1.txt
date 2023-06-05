@@ -1,0 +1,2300 @@
+
+
+060008954409
+
+9643909093117341557
+
+198 027 197 01 - Тимоша
+19802719701
+0390
+
+
+
+glavatskikhd
+
+4926835449 => w..f11
+
+Оплата по заказу клиента. Счет на оплату N ТП-14186 от 26 октября 2021 г. Покупатель: Главатских Дмитрий Эрикович.
+
+s2 = s1.translate({ord(i): None for i in '!.'})
+
+5090199769001603
+
+можешь сам посмотреть по времени - как только стартует wf_inc_ods2dl_scd1_z_main_docum (точнее его merge) стразу встает ODS (и не только), когда wf_inc_ods2dl_scd1_z_main_docum заканчивается ODS взлетает
+
+Добрый день ! Коллеги на проде DEI зависли потоки загрузки из ODS и aCRM в Озеро. Помогите разобраться в чем проблема.
+
+1660404
+
+xxx@xxx.ru
+
+142143, Московская обл, г.о.Подольск, пос.Быково, ул.Школьная, д.9
+
+142121, Московская область, Г.о.Подольск, микрорайон Кузнечики, Генерала Стрельбицкого, 11
+
+
+40817810638114766002
+044525225
+
+
+ODS_test = (DESCRIPTION =(ADDRESS=(PROTOCOL=TCP)(HOST=tst-cdwh-or400-scan)(PORT=1521))(CONNECT_DATA=(SERVER = DEDICATED)(SERVICE_NAME=odst)))
+
+
+ИП Миронов Алексей Леонидович
+771610618516
+
+gldmitri@gmail.com
+
+ТП N2 УФМС РОССИИ ПО МОСКОВСКОЙ ОБЛ ПО ЛЕНИНСКОМУ МУНИЦИПАЛЬНОМУ РАЙОНУ
+4617 513693
+118-622-912 57
+
+
+А - 196-989-939 93
+Ленинское управление ЗАГС Главного управления ЗАГС Московской обл
+
+044525225
+40817810740018094577
+
+Е - 198-027-198 02
+Т - 198-027-197 01
+
+sudo su - ipc
+
+4619 208646
+ГУ МВД РОССИИ ПО МОСКОВСКОЙ ОБЛАСТИ
+
+
+
+МСЭ-2019
+0456793
+ФКУ "ГБ МСЭ по Московской области" Минтруда России, Бюро медико-социальной экспертизы N 3
+
+
+Заказ № 101377178 
+Дата оформления:
+17 марта, 19:20
+При получении может потребоваться паспорт
+Способ оплаты
+Картой онлайн
+1 378 ₽, оплачено
+Способ получения
+Адрес доставки:
+деревня Быковка, Нагорная улица, д. 9А
+Получатель:
+Куликова Елена, тел. +7 925 104-27-30
+Изменить получателя
+Дата доставки:
+в пятницу, 18 марта с 10:00 до 22:00 доставка Яндекса
+Изменить дату доставки
+Стоимость доставки:
+49 ₽
+
+
+
+
+30746671-0006 - озон
+
+https://sgo-cx01-vip.go.rshbank.ru
+
+https://sgo-cx02-sf.go.rshbank.ru
+
+RSHBINTECH\Glavatskih-DE
+
+
+-------------------------------
+
+
+ООО «Компания Романовых»
+
+ИНН 7728446749
+
+г Москва, ул Бауманская, д 6 стр 2
+
+
+----------------------------
+
+
+
+
+
+Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX
+
+
+SVDH-MJ5N-TN5D-6Y2B
+
+1HqHYExx
+
+9-yandex_market-001
+
+Ваш заказ №64142 от 10.08.2020 21:52:35 успешно создан. Номер вашей оплаты: №64142/1
+
+
+Glavatskih-DE
+
+
+ CD62F2 - Элиста
+
+
+
+50:21:0050101:6999
+
+Московская область, р-н Ленинский, п Развилка, д 6А, пом 30
+
+
+30746671-0005
+
+Оплачено 2 501 ₽
+Картой онлайн 
+
+Доставка в пункт выдачи
+Пункт Ozon
+
+Получатель
+Главатских Дмитрий 
++7 929 594-74-70
+
+
+Vopr 16
+https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/import-data-from-excel-to-sql
+
+
+вопр 6  в 03.10.2018
+https://docs.microsoft.com/en-us/sql/relational-databases/tables/manage-retention-of-historical-data-in-system-versioned-temporal-tables
+
+vopr 8
+http://www.cozyroc.com/ssis/parallel-loop-task
+
+vopr 12
+https://docs.microsoft.com/en-us/sql/integration-services/control-flow/merge-in-integration-services-packages
+
+vopr 16
+References: https://docs.microsoft.com/en-us/sql/t-sql/statements/update-statistics-transact-sql?view=sql-server-2017
+
+
+vopr 19
+https://www.red-gate.com/simple-talk/sql/database-administration/optimizing-transaction-log-throughput/ 
+https://docs.microsoft.com/en-us/sql/relational-databases/policy-based-management/place-data-and-log-files-on-separate-drives?view=sql-server-2017
+
+vopr 20 
+To use submit_time we must use sys.dm_pdw_exec_requests table.
+References: https://docs.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-pdw-exec-requests-transact-sql?view=apspdw-2016-au7
+
+vopr 21
+https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-overview?view=sql-server-2017
+
+vopr 27
+https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sys-sp-cdc-change-job-transact-sql?view=sql-server-2017
+
+vopr 28
+https://docs.microsoft.com/en-us/sql/integration-services/system-stored-procedures/catalog-restore-project-ssisdb-database?view=sql-server-2017
+
+vopr 31
+https://social.technet.microsoft.com/wiki/contents/articles/50781.dynamic-management-of-ssas-partitions-with-ssis.aspx
+
+
+----------------------------------------
+
+
+Sub SayThisCell()
+
+Cells(1, 1).Speak
+
+End Sub
+
+
+-------------------------------------
+
+
+Sub SayThisString()
+
+Dim SayThis As String
+
+
+
+SayThis = "I love Microsoft Excel"
+
+Application.Speech.Speak (SayThis)
+
+
+
+End Sub
+
+
+
+Sub UseSpeech() 
+ 
+ Application.Speech.Speak "Hello" 
+ 
+End Sub
+
+
+
+Анализ данных при помощи Microsoft Power BI и Power Pivot для Excel
+
+
+https://www.testpreptraining.com/analyzing-data-with-microsoft-power-bi-da-100-exam
+
+муж
+89295947470
+
+
+
+
+
+
+
+Юра, подскажи к кому можно обратиться если 
+
+
+Александр, не подскажешь есть ли где-то инструкция по работе с ci/cd для формирования поставок на прод. Если нет, то можешь вкратце описать этот процесс ? Или для этого мне лучше позвонить ?
+
+
+
+41.	МБОУ "Гимназия имени Подольских курсантов"	Подольск
+42.	МОУ СОШ №18	Подольск
+
+52.	МОУ СОШ №34	Подольск
+53.	МОУ "Лицей № 23"	Подольск
+
+106.	МОУ "Лицей №1"	Подольск
+107.	МОУ лицей	Орехово-Зуевский
+108.	МОУ Толбинская школа	Подольск
+
+
+
+&& type(month) is int && type(year) is int
+
+
+# Введите свое решение ниже
+def get_unique_words(text):
+    p1 = ['.', ',', ';', ':', '...', '!', '?', '-', '"', '(', ')']
+    s1 = text.lower()
+    for s0 in p1:
+        s1 = s1.replace(s0,'')
+    
+    s3 = set(s1.split())
+    
+    s4 = sorted(list(s3))
+#    s2 = text.translate({ord(i): None for i in ['.', ',', ';', ':', '...', '!', '?', '-', '"', '(', ')']})
+
+    return s4    
+
+
+
+
+# Модифицируем предыдущую задачу.
+# Теперь необходимо написать функцию get_most_frequent_word, которое возвращает самое часто встречающееся слово в тексте.
+def get_unique_words(text):
+    p1 = ['.', ',', ';', ':', '...', '!', '?', '-', '"', '(', ')']
+    s1 = text.lower()
+    for s0 in p1:
+        s1 = s1.replace(s0,'')
+    
+    return s1.split()    
+
+#    s3 = set(s1.split())
+#    s4 = sorted(list(s3))
+
+
+text_example = "A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows. To begin your study of the life of Muad'Dib, then take care that you first place him in his time: born in the 57th year of the Padishah Emperor, Shaddam IV. And take the most special care that you locate Muad'Dib in his place: the planet Arrakis. Do not be deceived by the fact that he was born on Caladan and lived his first fifteen years there. Arrakis, the planet known as Dune, is forever his place."
+
+def get_most_frequent_word(text):
+    s2 = get_unique_words(text)
+    
+    d1 = {}
+    
+    for e1 in s2:
+        v1 = d1.get(e1,0)
+        d1[e1] = v1 + 1
+    
+    m1 = max(d1.values())
+    
+    for e2 in d1.keys():
+        if d1[e2] == m1: return e2
+    
+    
+    return 'Error !'
+    
+    
+# print(get_most_frequent_word(text_example))
+
+
+
+
+# Введите свое решение ниже    3.5 ???????
+def find_min_number(a,b,c):
+    m = a if a<b else b
+    m = c if c<m else m
+    return m
+        
+def sum_min_numbers(a, b, c):
+    s = a if a<b else b
+    s = s + (b if b<c else c)
+    return s    
+    
+#print(sum_min_numbers(1, 7, 5))
+
+
+
+def lucky_ticket(ticket_number):
+    s = str(ticket_number)
+    
+    s1 = s[:3]
+    s10 = 0
+    for e in s1:
+        s10 = s10 + int(e)
+    
+    s2 = s[-3:]
+    s20 = 0
+    for e in s2:
+        s20 = s20 + int(e)
+    
+    print(s1,s2)
+    return s10 == s20
+
+print(lucky_ticket(111111))
+print(lucky_ticket(123456))
+
+
+
+Александр, твои потоки на проде упали, т.к. паркет-таблицы не поддерживают update. Очевидно есть 2 варианта решения проблемы:  
+1) самому пересоздать таблицы на проде с форматом Orc
+2) создать в gitlab новый патч со скриптом удаления/создания таблиц и выслать его Туйгильдину
+Как сделать правильней думаю подскажет Александр Ашурков.
+
+
+
+Лена, по поводу доработки потоков из oCRM_ul - предварительно импорти их с прода и поля в DEI добавляй по одному (без Sinchronize), т.к. структура в тест.базе ocrm_ul может отличаться от прода.
+
+
+На самом деле лучше смотреть только потоки, последний запуск которых был неуспешен. В твоем списке таких 3, причем 2 из них тянутся уже давно (по известным причинам, которые от нас не зависят). Один оставшийся посмотрю чуть позже.
+
+
+
+from collections import Counter
+
+c1 = Counter( clients )
+c2 = c1.most_common()
+
+
+3.2
+
+from collections import OrderedDict
+
+def check(temps):
+    t2 =  sorted(temps, key=lambda x: abs(x[1]))
+    
+    od = OrderedDict(t2)
+    print(od)
+
+#check([('2000', -4.4), ('2001', -2.5), ('2002', -4.4), ('2003', -9.5)])
+
+
+3.5 - 3.7
+
+from collections import deque
+
+o1 = deque(users)
+
+e1 = o1.popleft()
+
+o1.rotate(-5)
+
+e1 = o1.pop()
+
+print(o1.count(8))
+
+
+
+4.3
+
+# Введите свое решение ниже
+from collections import deque
+
+def brackets(line):
+    s1 = deque(line)    
+    n1 = 0
+     
+    while len(s1) > 0:
+        o1 = s1.popleft()
+        if o1 == "(":
+            n1 = n1 + 1
+        elif o1 == ")":
+            n1 = n1 - 1
+        
+        if n1 < 0:
+            return False
+    
+    if n1 > 0:
+        return False
+    
+    return True
+    
+#print(brackets("(()())"))
+# True
+#print(brackets(""))
+# True
+#print(brackets("(()()))"))
+# False
+
+
+4.4
+
+from collections import Counter
+#from collections import deque
+
+c1 = Counter()
+
+for i1 in center:
+    c1 = c1 + Counter(i1)
+
+l1 = [x1 for x1 in c1.values()]
+    
+c2 = Counter()
+
+for i1 in south:
+    c2 = c2 + Counter(i1)
+
+l2 = [x1 for x1 in c2.values()]
+    
+c3 = Counter()
+
+for i1 in north:
+    c3 = c3 + Counter(i1)
+
+l3 = [x1 for x1 in c3.values()]
+    
+        
+print("center:", c1, sum(l1))
+print("south:", c2, sum(l2))
+print("north:", c3, sum(l3))
+
+
+
+4.7
+
+#print("south:", c2, sum(l2))
+#print("north:", c3.most_common(), sum(l3))
+#print("center:", c1.most_common(), sum(l1))
+
+c3.subtract(c1)
+c3.subtract(c2)
+
+print(c3 ) 
+
+
+4.9  -- ???????     4. Модуль Collections. Закрепление знаний
+
+# Введите свое решение ниже
+from collections import OrderedDict
+
+ratings = [('Old York', 3.3), ('New Age', 4.6), ('Old Gold', 3.3), ('General Foods', 4.8),
+           ('Belissimo', 4.5), ('CakeAndCoffee', 4.2), ('CakeOClock', 4.2), ('CakeTime', 4.1),
+           ('WokToWork', 4.9), ('WokAndRice', 4.9), ('Old Wine Cellar', 3.3), ('Nice Cakes', 3.9)]
+
+cafes = OrderedDict(sorted(ratings, key=lambda x: (-x[1],x[0]) ))
+
+print(cafes)
+
+
+Ожидаемый ответ:
+
+OrderedDict([('WokAndRice', 4.9), ('WokToWork', 4.9), ('General Foods', 4.8), ('New Age', 4.6), ('Belissimo', 4.5), ('CakeAndCoffee', 4.2), ('CakeOClock', 4.2), ('CakeTime', 4.1), ('Nice Cakes', 3.9), ('Old Gold', 3.3), ('Old Wine Cellar', 3.3), ('Old York', 3.3)])
+
+Ваш ответ:
+
+OrderedDict([('WokAndRice', 4.9), ('WokToWork', 4.9), ('General Foods', 4.8), ('New Age', 4.6), ('Belissimo', 4.5), ('CakeAndCoffee', 4.2), ('CakeOClock', 4.2), ('CakeTime', 4.1), ('Nice Cakes', 3.9), ('Old Gold', 3.3), ('Old Wine Cellar', 3.3), ('Old York', 3.3)])
+OrderedDict([('WokAndRice', 4.9), ('WokToWork', 4.9), ('General Foods', 4.8), ('New Age', 4.6), ('Belissimo', 4.5), ('CakeAndCoffee', 4.2), ('CakeOClock', 4.2), ('CakeTime', 4.1), ('Nice Cakes', 3.9), ('Old Gold', 3.3), ('Old Wine Cellar', 3.3), ('Old York', 3.3)])
+
+----- 
+
+OrderedDict([('WokAndRice', 4.9), ('WokToWork', 4.9), ('General Foods', 4.8), ('New Age', 4.6), ('Belissimo', 4.5), ('CakeAndCoffee', 4.2), ('CakeOClock', 4.2), ('CakeTime', 4.1), ('Nice Cakes', 3.9), ('Old Gold', 3.3), ('Old Wine Cellar', 3.3), ('Old York', 3.3)])
+
+Время выполнения: 0.14001 сек
+ 
+
+4.10
+
+# Введите свое решение ниже
+from collections import deque
+from collections import defaultdict
+# from collections import OrderedDict
+
+
+def task_manager(tasks):
+    t1 = defaultdict(deque)
+
+    for i1 in tasks:        
+        if i1[2]:
+            t1[i1[1]].appendleft(i1[0])
+        else:
+            t1[i1[1]].append(i1[0])
+            
+    return t1
+            
+
+tasks = [(36871, 'office', False),
+(40690, 'office', False),
+(35364, 'voltage', False),
+(41667, 'voltage', True),
+(33850, 'office', False)]
+    
+#print(task_manager(tasks))
+
+# defaultdict(, {'voltage': deque([41667, 35364]),
+# 'office': deque([36871, 40690, 33850])})
+
+
+print(np.sctypeDict)
+
+
+
+7.2
+
+# Введите свое решение ниже
+import numpy as np
+
+mystery = np.array([[-13586,  15203,  28445, -27117,  -1781, -17182, -18049],
+       [ 25936, -30968,  -1297,  -4593,   6451,  15790,   7181],
+       [ 13348,  28049,  28655,  -6012,  21762,  25397,   8225],
+       [ 13240,   7994,  32592,  20149,  13754,  11795,   -564],
+       [-21725,  -8681,  30305,  22260, -17918,  12578,  29943],
+       [-16841, -25392, -17278,  11740,   5916,    -47, -32037]],
+      dtype=np.int16)
+
+elem_5_3 = mystery[4,2]
+
+#print(mystery.shape)
+last = mystery[5,6]
+
+line_4 = mystery[3]
+
+col_2 = mystery[:,5]
+
+part = mystery[1:4,2:5]
+
+rev = mystery[::-1,6]
+
+trans = mystery.transpose()
+
+#print(trans)
+
+
+7.4
+
+# Введите свое решение ниже
+import numpy as np
+
+mystery = np.array([ 12279., -26024.,  28745.,  np.nan,  31244.,  -2365.,  -6974.,
+        -9212., np.nan, -17722.,  16132.,  25933.,  np.nan, -16431.,
+        29810.], dtype=np.float32)
+
+nans_index = np.isnan(mystery)
+
+n_nan = mystery[nans_index].size
+
+mystery_new = mystery
+
+mystery_new[np.isnan(mystery_new)] = 0
+
+#roots[np.isnan(roots)] = 0
+
+mystery_int = np.int32(mystery)
+#mystery_int.dtype = np.int32
+
+array = np.sort(mystery)
+
+table = array.reshape((5, 3), order='F')
+
+col = table[:,1]
+
+#print(col)
+
+
+
+8.4
+
+# Ваш код здесь
+import numpy as np
+
+print(a,b,c)
+
+print(np.dot(a,c))
+print(np.dot(a,b))
+print(np.dot(b,c))
+
+#print(np.linalg.norm(a)+ np.linalg.norm(c))
+
+
+8.7 ..
+
+import numpy as np
+
+print(mystery2.min() )
+print(mystery2.mean() )
+print(np.median(mystery2) )
+print(np.std(mystery2) )
+
+
+
+9.6
+
+# Введите свое решение ниже
+import numpy as np
+np.random.seed(2021)
+
+simple = np.random.rand()
+
+randoms = np.random.uniform(-150, 2021, size=120)
+
+table = np.random.randint(1, 101, size = (3,2))
+
+even = np.arange(2,17,2)
+
+mix= even
+
+np.random.shuffle(mix)
+
+select = np.random.choice(even, size=3, replace=False)
+
+triplet = np.random.permutation(select)
+
+#print(triplet)
+
+
+
+10.5  - ???????  x+y
+Получите сумму чисел, сохранённых в переменных x и y.
+-12412
+4294954884
+
+
+10.7
+
+# Введите свое решение ниже
+import numpy as np
+
+def shuffle_seed(ar1):
+    s1 = np.random.randint(0, high=2**32, size=None, dtype=np.uint32)
+    np.random.seed(s1)
+    
+    ar2 = np.random.permutation(ar1)
+    
+    return (ar2,s1)
+
+array = [1, 2, 3, 4, 5]
+print(shuffle_seed(array))
+
+print(shuffle_seed(array))
+
+
+
+10.8
+
+# Введите свое решение ниже
+import numpy as np
+
+def min_max_dist(*vectors):
+    # print(len(vectors[0]))
+    d1 = len(vectors)
+    d2 = len(vectors[0])
+    s_min = 0
+    s_max = 0
+    
+    i1 = 0
+    while i1 < d1:
+        i2 = i1 + 1
+        while i2 < d1:
+            s2 = np.linalg.norm(vectors[i1] - vectors[i2])
+            
+            if s2 > s_max:
+                s_max = s2
+                
+            if s2 < s_min or s_min == 0:
+                s_min = s2
+            
+            i2 = i2 + 1
+        
+        i1 = i1 + 1
+        
+    return (s_min, s_max)
+    
+       
+vec1 = np.array([1,2,3])
+vec2 = np.array([4,5,6])
+vec3 = np.array([7, 8, 9])
+    
+print(min_max_dist(vec1, vec2, vec3))
+
+
+
+
+
+10.9
+
+# Введите свое решение ниже
+# Введите свое решение ниже
+import numpy as np
+
+def any_normal(*vectors):
+    # print(len(vectors[0]))
+    d1 = len(vectors)
+    d2 = len(vectors[0])
+    
+    i1 = 0
+    while i1 < d1:
+        i2 = i1 + 1
+        while i2 < d1:
+            s2 = np.dot(vectors[i1], vectors[i2])
+            
+            if s2 == 0:
+                print(vectors[i1], vectors[i2])
+                return True
+            
+            i2 = i2 + 1
+        
+        i1 = i1 + 1
+        
+    return False
+    
+#vec1 = np.array([2, 1])
+#vec2 = np.array([-1, 2])
+#vec3 = np.array([3,4])
+#print(any_normal(vec1, vec2, vec3))
+
+
+10.10
+
+# Введите свое решение ниже
+import numpy as np
+
+def get_loto(num):
+    m1 = np.random.randint(1, 101, size = (num,5,5))
+    
+    return m1
+
+#print(get_loto(3))
+
+
+
+10.11
+
+# Введите свое решение ниже
+import numpy as np
+
+def get_unique_loto(num):
+    #m1 = np.array([])
+    
+    m1 = np.array([np.random.choice(range(1,101), size=(5,5), replace=False) for i1 in  range(0,num)])
+    
+    #m1 = np.random.randint(1, 101, size = (num,5,5))
+    
+    return m1
+
+
+#print(get_unique_loto(3))
+
+
+
+0.3 - ФИО может меняться ????????
+
+
+
+Задание 2.3
+1/1 point (graded)
+Задан Series my_series = pd.Series(data=[5, 6, 7, 8, 9, 10], index=['a', 'b', 'c', 'd', 'e', 'f']). Какими из нижеперечисленных способов можно достать из него числа 6, 7 и 9?
+
+Чем плох ответ :
+B my_series.iloc[1:5]
+
+
+3.5 
+
+# Введите свое решение ниже
+import pandas as pd
+
+def create_companyDF(income, expenses, years):
+    df1 = pd.DataFrame({ 'Income' : income,  'Expenses' : expenses })
+    df1.index = years
+    
+    return df1
+
+def get_profit(df, year):
+    if year not in df.index:
+        return None
+    
+    s1 = df.loc[year,'Income'] - df.loc[year,'Expenses']
+    return s1
+
+income = [478, 512, 196]
+expenses = [156, 130, 270]
+years = [2018, 2019, 2020]
+
+df2 = create_companyDF(income, expenses, years)
+
+#print(get_profit(df2, 2011))
+#print(df2)
+
+
+
+C:\Users\Glavatskih-DE\Downloads\PY_kurs\melb_data.csv
+
+melb_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\melb_data.csv', sep=',')
+
+
+
+5.3 -- ??????? Во сколько раз площадь прилегающей территории, на которой находится здание с индексом 3521, больше площади участка, на котором находится здание с индексом 1690? Ответ округлите до целого числа. 
+
+print(melb_data.Landsize[3521])
+print(melb_data.Landsize[3521], melb_data.Landsize[1690] + melb_data.BuildingArea[1690])
+
+
+13580 - 12211
+melb_data['CouncilArea']
+
+
+landsize_median = melb_data['BuildingArea'].median() 
+landsize_mean =  melb_data['BuildingArea'].mean()
+print(abs(landsize_median - landsize_mean)/landsize_mean)
+
+
+
+
+
+
+
+melb_data[(melb_data['Price'] < 1000000) & ((melb_data['Rooms'] > 5) | (melb_data['YearBuilt'] < 2015))]['Price'].mean()
+
+
+melb_data[(melb_data['Price'] < 3000000) & (melb_data['Type'] == 'h')]['Regionname']
+
+
+
+student_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\students_performance.csv', sep=',')
+
+
+
+student_data[student_data['math score'] == 0].count()
+
+
+student_data[student_data['lunch'] == 'standard']['math score'].mean()
+student_data[student_data['lunch'] == 'free/reduced']['math score'].mean()
+
+
+student_data['parental level of education'].value_counts(normalize=True)
+
+
+-----------------------------------
+
+
+melb_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\melb_data_ps.csv', sep=',')
+
+
+Задание 2.2          -- !!!!!!!!!!!!!!!!!
+0/1 point (graded)
+Задан DataFrame customer_df, содержащий столбцы:
+cust_id — идентификатор клиента;
+cust_age — возраст клиента (точкой отсчёта возраста считается 2021 год);
+cust_sale — персональная скидка клиента;
+cust_year_birth — год рождения клиента;
+cust_order — сумма заказа клиента.
+
+Какие столбцы не несут полезной информации/дублируют информацию из других столбцов и поэтому могут быть удалены?
+number,cust_age
+
+
+ufo = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\ufo.txt', sep=',')
+
+pd.to_datetime(df['Inserted'], format="%m/%d/%Y, %H:%M:%S")
+
+
+dt1 = ufo['Time'].apply(lambda _: datetime.strptime(_,"%m/%d/%Y"))
+print(df)
+
+
+def get_weekend(weekday)
+    if weekday in [5,6]:
+        return 1
+    return 0
+
+melb_df['Weekend'] = melb_df['WeekdaySale'].apply(get_weekend)
+
+melb_df['Weekend'] = WeekdaySale.apply(get_weekend)
+
+
+melb_df[melb_df['Weekend'] == 1]['Price'].mean
+
+
+pop_sell = melb_df['SellerG'].value_counts().nlargest(49).index
+
+melb_df['SellerG'] = melb_df['SellerG'].apply(lambda x: x if x in pop_sell else 'other')
+
+melb_df[melb_df['SellerG'] == 'Nelson']['Price'].min()
+
+
+--------------
+
+pop_sub = melb_df['Suburb'].value_counts().nlargest(119).index
+
+melb_df['Suburb'] = melb_df['Suburb'].apply(lambda x: x if x in pop_sub else 'other')
+
+melb_df['Suburb'] = melb_df['Suburb'].astype('category')
+
+
+---------------
+
+bt1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\citibike-tripdata.csv', sep=',')
+
+
+bt2 = bt1.drop('start station id', axis=1)
+bt2 = bt2.drop('end station id', axis=1)
+
+dt2 = pd.to_datetime(bt2['stoptime'])
+dt1 = pd.to_datetime(bt2['starttime'])
+
+bt2['trip duration'] = dt2 - dt1
+
+bt2['dt_start'] = pd.to_datetime(bt2['starttime'])
+
+bt2['d_of_w'] = bt2['dt_start'].dt.day_of_week
+
+
+bt2['weekend'] = bt2['d_of_w'].apply(lambda x: 1 if x in [5,6] else 0)  
+
+
+def tm_day( h1 ):
+    if h1 >= 0 and h1 <= 6:
+        return 'night'
+    elif h1 > 6 and h1 <= 12:
+        return 'morning'
+    elif h1 > 12 and h1 <= 18:
+        return 'day'
+    elif h1 > 18 and h1 <= 23:
+        return 'evening'
+    else:
+        return ''
+    end
+
+
+bt2['time_of_day'] = bt2['dt_start'].dt.hour.apply(tm_day)
+
+
+bt2['time_of_day'].value_counts()['day'] / bt2['time_of_day'].value_counts()['night']
+
+
+
+
+
+melb_df = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\melb_data_fe.csv', sep=',')
+
+
+melb_df['Date'] = pd.to_datetime(melb_df['Date'])
+
+melb_df['quarter'] = melb_df['Date'].dt.quarter
+
+
+
+
+melb_df.sort_values(by='AreaRatio',
+    ascending=False, ignore_index=True).loc[1550:1560, ['Date', 'AreaRatio','BuildingArea']]
+
+
+melb_df[mask2 & mask3].sort_values(
+    by=['Rooms', 'MeanRoomsSquare'],
+    ascending=[True, False],
+    ignore_index=True
+).loc[10:20, ['Rooms', 'MeanRoomsSquare','Price']]
+
+-- pd.read_csv('data/melb_data_fe.csv')
+
+
+melb_df.groupby('Regionname')['SellerG'].agg(
+    		['nunique', set]
+)
+
+
+melb_df.groupby('Regionname')['Lattitude'].agg('describe').sort_values(by='std')
+
+melb_df[melb_df['Date'] >= '2017-05-01' & melb_df['Date'] <= '2017-09-01'].sort_values(by='Date', ascending=False)
+
+melb_df[mask1 & mask2].groupby('SellerG')['Price'].agg(['sum','min']).sort_values(by='sum')
+
+
+
+melb_df.pivot_table(
+    values='BuildingArea',
+    index='Rooms',
+    columns='Type',
+    aggfunc='median',
+    fill_value=0
+)
+
+
+
+
+ratings1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\movies_data\\ratings1.csv', sep=',')
+
+ratings2 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\movies_data\\ratings2.csv', sep=',')
+
+dates = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\movies_data\\dates.csv', sep=',')
+
+movies = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\movies_data\\movies.csv', sep=',')
+
+
+dates['date2'] = pd.to_datetime(dates['date'])
+
+
+
+Pandas 6.3
+
+# Введите свое решение ниже
+import pandas as pd
+import os
+
+def concat_user_files(path):
+    f1 = os.listdir(path)
+    f1.sort()
+    
+ #   start1 = 1
+    df1 = pd.DataFrame()
+    
+    for f2 in f1:
+        f3 = path + f2
+        print(f3)
+        
+        df2 = pd.read_csv(f3)
+        print(df2.shape[0])
+        
+        df1 = pd.concat( [df1, df2], ignore_index=True )
+    
+    df1 = df1.drop_duplicates(ignore_index=True)
+    
+    return df1
+        
+               
+df10 = concat_user_files('./Root/users/')
+print(df10)
+
+
+Pandas 7.5
+
+# Введите свое решение ниже
+import pandas as pd
+
+items_df = pd.DataFrame({
+    'item_id': [417283, 849734, 132223, 573943, 19475, 3294095, 382043, 302948, 100132, 312394], 
+    'vendor': ['Samsung', 'LG', 'Apple', 'Apple', 'LG', 'Apple', 'Samsung', 'Samsung', 'LG', 'ZTE'],
+    'stock_count': [54, 33, 122, 18, 102, 43, 77, 143, 60, 19]
+})
+
+purchase_df = pd.DataFrame({
+    'purchase_id': [101, 101, 101, 112, 121, 145, 145, 145, 145, 221],
+    'item_id': [417283, 849734, 132223, 573943, 19475, 3294095, 382043, 302948, 103845, 100132], 
+    'price': [13900, 5330, 38200, 49990, 9890, 33000, 67500, 34500, 89900, 11400]
+})
+
+merged = items_df.merge(
+    purchase_df,
+    on='item_id',
+    how='inner'
+)
+
+sum1 = merged['stock_count'] * merged['price']
+income = sum1.sum()
+
+----------------------
+
+rm1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\ratings_movies.csv', sep=',')
+
+
+rm1[rm1['year_release'] == 1999]
+
+
+rm1[rm1['year_release'] == 1999].groupby('title')['rating'].agg('mean')
+# .sort_values(by='mean')
+
+rm1[rm1['year_release'] == 2010].groupby('genres')['rating'].agg('mean')
+
+
+rm1.groupby('userId')['rating'].agg('describe')
+
+
+rm1[rm1['year_release'] == 2018].groupby('genres')['rating'].agg(['mean','count'])
+
+
+
+rm1.pivot_table(
+    values='rating',
+    index='genres',
+    columns='year_release',
+    aggfunc='mean',
+    fill_value=0
+)
+
+
+o1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\orders.csv', sep=';')
+
+p1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\products.csv', sep=';')
+
+
+op1 = o1.merge(
+    p1,
+    left_on='ID товара',
+    right_on='Product_ID',
+    how='left'
+)
+
+
+op1.groupby('ID Покупателя')['sum1'].agg('sum')
+
+
+melb_df[melb_df['Date'] >= '2017-05-01' & melb_df['Date'] <= '2017-09-01'].sort_values(by='Date', ascending=False)
+
+
+
+covid_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\covid_data.csv')
+
+vaccinations_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\country_vaccinations.csv')
+
+
+covid_df = covid_data.merge(
+    vaccinations_data,
+    left_on=['date','country'],
+    right_on=['date','country'],
+    how='left'
+)
+
+
+covid_df['death_rate'] = covid_df['deaths'] / covid_df['confirmed'] * 100.0
+
+covid_df['recover_rate'] = covid_df['recovered'] / covid_df['confirmed'] * 100.0
+
+covid_df[covid_df['country'] == 'Russia']['recover_rate'].mean()
+
+
+grouped_country = covid_df.groupby(['country'])[['confirmed', 'deaths']].last()
+grouped_country = grouped_country.nlargest(10, columns=['confirmed'])
+grouped_country.plot( 
+    kind='bar', 
+    grid=True, 
+    figsize=(12, 4), 
+);
+
+
+----------------
+
+
+countries = ['Russia', 'Australia', 'Germany', 'Canada', 'United Kingdom']
+croped_covid_df = covid_df[covid_df['country'].isin(countries)]
+
+populations = pd.DataFrame([
+    ['Canada', 37664517],
+    ['Germany', 83721496],
+    ['Russia', 145975300],
+    ['Australia', 25726900],
+    ['United Kingdom', 67802690]
+    ],
+    columns=['country', 'population']
+)
+croped_covid_df = croped_covid_df.merge(populations, on=['country'])
+
+
+--- 6.4 ----
+
+croped_covid_df['confirmed_per_hundred'] = croped_covid_df['confirmed'] / croped_covid_df['population'] * 100
+
+pivot = croped_covid_df.pivot_table(
+    values='confirmed_per_hundred',
+    columns='date',
+    index='country',
+)
+pivot.columns = pivot.columns.astype('string')
+
+
+heatmap = sns.heatmap(data=pivot, cmap='YlGnBu')
+heatmap.set_title('Тепловая карта вакцинации', fontsize=16);
+
+---- 6.5  ----- 
+
+fig = plt.figure(figsize=(10, 7))
+boxplot = sns.boxplot(
+    data=croped_covid_df,
+    y='country',
+    x='recover_rate',
+    orient='h',
+    width=0.9
+)
+boxplot.set_title('Процент выздоровлений');
+boxplot.set_xlabel('Выздоровления');
+boxplot.set_ylabel('Страна');
+boxplot.grid()
+
+
+--------------------------------------
+
+
+https://desktop.github.com/
+
+
+
+
+
+
+vg_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\vgsales.csv')
+
+
+
+
+.dt.dayofweek
+
+he opens the window for a long time
+he opens window for a long time
+
+
+
+
+def sum(a, b):
+    return (a + b)
+
+a = int(input('Enter 1st number: '))
+b = int(input('Enter 2nd number: '))
+
+print(f'Sum of {a} and {b} is {sum(a, b)}')
+
+
+-------------------------------------------------------
+
+import pandas as pd
+
+covid_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\covid_data.csv')
+
+vaccinations_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\country_vaccinations.csv')
+
+vaccinations_data = vaccinations_data[
+    ['country', 'date', 'total_vaccinations', 
+     'people_vaccinated', 'people_vaccinated_per_hundred',
+     'people_fully_vaccinated', 'people_fully_vaccinated_per_hundred',
+     'daily_vaccinations', 'vaccines']
+]
+
+covid_data = covid_data.groupby(
+    ['date', 'country'], 
+    as_index=False
+)[['confirmed', 'deaths', 'recovered']].sum()
+
+covid_data['date'] = pd.to_datetime(covid_data['date'])
+covid_data['active'] = covid_data['confirmed'] - covid_data['deaths'] - covid_data['recovered']
+covid_data = covid_data.sort_values(by=['country', 'date'])
+covid_data = covid_data.sort_values(by=['country', 'date'])
+covid_data['daily_confirmed'] = covid_data.groupby('country')['confirmed'].diff()
+covid_data['daily_deaths'] = covid_data.groupby('country')['deaths'].diff()
+covid_data['daily_recovered'] = covid_data.groupby('country')['recovered'].diff()
+
+
+vaccinations_data['date'] = pd.to_datetime(vaccinations_data['date'])
+covid_data.sort_values(by='date')
+
+covid_df = covid_data.merge(
+    vaccinations_data,
+    left_on=['date','country'],
+    right_on=['date','country'],
+    how='left'
+)
+
+
+covid_df['death_rate'] = covid_df['deaths'] / covid_df['confirmed'] * 100.0
+covid_df['recover_rate'] = covid_df['recovered'] / covid_df['confirmed'] * 100.0
+
+
+---------------------------------------------------------
+
+
+churn_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\churn.csv')
+
+
+churn_data['CreditScoreCat'] = churn_data['CreditScore'].apply(get_credit_score_cat)
+
+churn_data['CreditScoreCat'] = churn_data['CreditScoreCat'].astype('category')
+
+
+pivot = churn_data.pivot_table(
+    values='Exited',
+    columns='Tenure',
+    index='CreditScoreCat',
+    aggfunc='mean',
+    fill_value=0
+)
+
+# pivot.columns = pivot.columns.astype('string')
+
+
+heatmap = sns.heatmap(data=pivot, cmap='YlGnBu')
+heatmap.set_title('Зависимость кредитного рейтинга от периода обслуживания клиент', fontsize=16);
+
+
+
+
+
+-------------------------------
+
+
+sber_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\sber_data.csv')
+sber_data.head(10)
+                           # ДИАГРАММА РАССЕЯНИЯ    !!!!!!!!!!!!!!! 
+sns.jointplot(
+    x='price_doc', 
+    y='kremlin_km', 
+    data=sber_data,
+    kind='hex'
+    #fill=True
+    );
+
+
+cols_with_null.plot(
+    kind='bar',
+    figsize=(10, 4),
+    title='Распределение пропусков в данных'
+);
+
+
+ метод dropna(), 
+axis — ось, по которой производится удаление (по умолчанию 0 — строки).
+how — как производится удаление строк (any — если хотя бы в одном из столбцов есть пропуск, стоит по умолчанию; all — если во всех столбцах есть пропуски). 
+thresh — порог удаления. Определяет минимальное число непустых значений в строке/столбце, при котором она/он сохраняется.
+
+#создаем копию исходной таблицы
+fill_data = sber_data.copy()
+#создаем словарь имя столбца: число(признак) на который надо заменить пропуски
+values = {
+    'life_sq': fill_data['full_sq'],
+    'metro_min_walk': fill_data['metro_min_walk'].median(),
+    'metro_km_walk': fill_data['metro_km_walk'].median(),
+    'railroad_station_walk_km': fill_data['railroad_station_walk_km'].median(),
+    'railroad_station_walk_min': fill_data['railroad_station_walk_min'].median(),
+    'hospital_beds_raion': fill_data['hospital_beds_raion'].mode()[0],
+    'preschool_quota': fill_data['preschool_quota'].mode()[0],
+    'school_quota': fill_data['school_quota'].mode()[0],
+    'floor': fill_data['floor'].mode()[0]
+}
+#заполняем пропуски в соответствии с заявленным словарем
+fill_data = fill_data.fillna(values)
+#выводим результирующую долю пропусков
+fill_data.isnull().mean()
+
+
+indicator_data = sber_data.copy()
+#в цикле пробегаемся по названиям столбцов с пропусками
+for col in cols_with_null.index:
+    #создаем новый признак-индикатор как col_was_null
+    indicator_data[col + '_was_null'] = indicator_data[col].isnull()
+
+
+combine_data = sber_data.copy()
+
+#отбрасываем столбцы с числом пропусков более 30% (100-70)
+n = combine_data.shape[0] #число строк в таблице
+thresh = n*0.7
+
+combine_data = combine_data.dropna(thresh=thresh, axis=1)
+
+#отбрасываем строки с числом пропусков более 2 в строке
+m = combine_data.shape[1] #число признаков после удаления столбцов
+
+combine_data = combine_data.dropna(thresh=m-2, axis=0)
+
+
+ ---- 4.6  ---
+
+# Введите свое решение ниже
+import pandas as pd
+import numpy as np
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+
+df = pd.read_csv('test_data.csv')
+
+thresh = df.shape[0]*0.5
+
+df = df.dropna(thresh=thresh, axis=1)
+
+thresh = df.shape[1] - 2
+#print(thresh)
+
+df = df.dropna(thresh=thresh, axis=0)
+
+#print(df)
+
+
+values = {
+    'one': df['one'].mean(),
+    'two': df['two'].mean(),
+    'four': df['four'].mode()[0]
+}
+#заполняем пропуски в соответствии с заявленным словарем
+df = df.fillna(values)
+
+#print(df)
+
+-------------
+
+
+outliers = sber_data[sber_data['life_sq'] > sber_data['full_sq']]
+print(outliers.shape[0])
+
+cleaned = sber_data.drop(outliers.index, axis=0)
+print(f'Результирующее число записей: {cleaned.shape[0]}')
+
+-----
+
+def outliers_iqr(data, feature, left=1.5, right=1.5):
+    x = data[feature]
+    quartile_1, quartile_3 = x.quantile(0.25), x.quantile(0.75),
+    iqr = quartile_3 - quartile_1
+    lower_bound = quartile_1 - (iqr * left)
+    upper_bound = quartile_3 + (iqr * right)
+    outliers = data[(x<lower_bound) | (x > upper_bound)]
+    cleaned = data[(x>lower_bound) & (x < upper_bound)]
+    return outliers, cleaned
+
+
+ig, axes = plt.subplots(nrows=1, ncols=2, figsize=(15, 4))
+histplot = sns.histplot(data=cleaned, x='full_sq', ax=axes[0]);
+histplot.set_title('Cleaned Full Square Distribution');
+boxplot = sns.boxplot(data=cleaned, x='full_sq', ax=axes[1]);
+boxplot.set_title('Cleaned Full Square Boxplot');
+
+
+log_mkad_km= np.log(sber_data['mkad_km'] + 1)
+histplot = sns.histplot(log_mkad_km , bins=30, ax=axes[1])
+histplot.set_title('Log MKAD Km Distribution');
+
+
+def outliers_z_score(data, feature, log_scale=False, left=3, right=3):
+    if log_scale:
+        x = np.log(data[feature]+1)
+    else:
+        x = data[feature]
+    mu = x.mean()
+    sigma = x.std()
+    lower_bound = mu - left * sigma
+    upper_bound = mu + right * sigma
+    outliers = data[(x < lower_bound) | (x > upper_bound)]
+    cleaned = data[(x > lower_bound) & (x < upper_bound)]
+    return outliers, cleaned
+
+
+print(outliers['sub_area'].unique())
+
+--------------------
+
+
+sber_data['id'].nunique() == sber_data.shape[0]
+
+sber_data[col].value_counts(normalize=True).max()
+
+
+d1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\diabetes_data.csv')
+
+
+
+d1[d1['Glucose'] == 0].loc[:,'Glucose']
+
+d1.loc[d1['Glucose'] == 0, ['Glucose']] = 99   -- !!!!!!!!!!
+
+df.at [3, 'points'] = 99
+df.at [0:3, 'points'] = 99
+
+
+d1 = d1.dropna(thresh=6, axis=0)
+
+
+#d2 = sber_d1.copy()
+#создаем словарь имя столбца: число(признак) на который надо заменить пропуски
+
+values = {
+    'Glucose': d1['Glucose'].median(),
+    'BloodPressure': d1['BloodPressure'].median(),
+    'SkinThickness': d1['SkinThickness'].median(),
+    'BMI': d1['BMI'].median()
+}
+
+d1 = d1.fillna(values)
+
+d1.isnull().mean()
+
+------
+
+fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(15, 4))
+histplot = sns.histplot(data=sber_data, x='full_sq', ax=axes[0]);
+histplot.set_title('Full Square Distribution');
+boxplot = sns.boxplot(data=sber_data, x='full_sq', ax=axes[1]);
+boxplot.set_title('Full Square Boxplot');
+
+
+------------ PROJECT 1 -------------
+
+
+d1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\dst-3.0_16_1_hh_database.csv')
+
+
+string.find(substring,start,end)
+
+math.isnan(x):
+
+np.isnan
+pd.isna(x)
+
+
+d1['Опыт работы'] = d1['Опыт работы'].astype(str)  
+
+
+d1[['Col10','Опыт работы']].sort_values(by = ['Col10'])
+
+
+The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+
+def f_city(s1):
+    s2 = s1
+    i1 = s1.find('(')
+
+    if i1 >= 0: 
+        i2 = s1.find(')')
+        s2 = s1[:i1] || s1[i2+1:]
+
+    s3 = x.split(' , ')
+
+    return s2
+
+
+
+er1 = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\ExchangeRates.csv')
+
+
+d2 = d1.merge(
+    er1,
+    left_on=['dt_rez','curr2'],
+    right_on=['date2','currency'],
+    how='left'
+)
+
+data['BMI'] = data.apply(lambda x: calc_bmi(x['Weight'], x['Height']), axis=1)
+
+
+d1.apply(lambda x: x['zp2'] if x['curr2'] == 'руб.' else x['close']*x['zp2']/x['proportion'], axis=1)
+
+
+d4 = d3.dropna(axis=0, how='all', subset=['Последняя/нынешняя должность','Последнее/нынешнее место работы'])
+
+
+
+Задание 4.5
+0.0/1.0 point (graded)
+В каком городе (категории городов) зафиксирован наибольший показатель желаемой заработной платы (~924 тысячи рублей)?
+другие или другое
+
+5.1 - 156 а не 161 !!!!!!!!!!!!!!!!
+
+Начнём с дубликатов в наших данных. Найдите полные дубликаты в таблице с резюме и удалите их.
+
+
+
+--------------- БЛОК 2 ------------------
+
+
+from chardet.universaldetector import UniversalDetector # Импортируем субмодуль chardet.universaldetector
+
+detector = UniversalDetector()
+with open('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\ErrorEnCoding.csv', 'rb') as fh:
+    for line in fh:
+        detector.feed(line)
+        if detector.done:
+            break
+detector.close()
+
+-------
+
+6.5
+
+# Введите свое решение ниже
+import pandas as pd
+import json
+from pprint import pprint
+
+#with open('recipes.json') as f: 
+#   recipes = json.load(f) 
+
+df = pd.read_csv('recipes.csv')
+
+ids = list(df['id'].unique())
+
+----------
+
+%%timeit -n 10
+# Iterrows
+total = []
+for index, row in df.iterrows():
+    total.append(row['src_bytes'] + row['dst_bytes'])
+
+ing = set()
+for i1, b1 in df.iterrows():
+    ing = ing.union(b1['ingredients'])
+    #k1[b1['cuisine']] = v1 + 1
+
+all_ingredients = list(ing)
+print(len(all_ingredients))
+
+
+for i1 in range(len(df)):
+    ing = ing.union(df['ingredients'].loc[i1])
+
+
+def make_list( df2 ):
+    lst1 = []
+    for i1 in ingredients:
+        #  if row[i1] == 1:  -- так если на входе серия
+        if df2.at[0,i1] == 1:   -- получаем одно значение !!!!!!
+            #return i1
+            lst1.append(i1)
+    return lst1
+
+------------------------------------
+
+import requests    # Импортируем библиотеку requests
+from bs4 import BeautifulSoup    # Импортируем библиотеку BeautifulSoup
+
+def wiki_header( url ):
+    response = requests.get(url) # Выполняем GET-запрос, содержимое ответа присваивается переменной response
+    page = BeautifulSoup(response.text, 'html.parser') # Создаём 
+    return page.find('h1').text
+
+#print(wiki_header('https://en.wikipedia.org/wiki/Operating_system'))
+# 'Operating system'
+
+
+print(page.find('div', class_='n1_material').text)
+print(page.find('div', class_='n1_material text-18').text)
+
+links = page.find_all('a') # Ищем все ссылки на странице и сохраняем в переменной links в виде списка
+print(len(links))
+
+print([link.text for link in links[100:120]])
+
+
+
+df.loc[df['set_of_numbers'] <= 4, 'equal_or_lower_than_4?'] = 'True' 
+df.loc[df['set_of_numbers'] > 4, 'equal_or_lower_than_4?'] = 'False' 
+
+
+s1.loc[s1['cum_power'] == (-1), 'cp2'] = (s1.cum_power.shift(1) + s1.cum_power.shift(-1) ) / 2
+s1.loc[s1['cum_power'] != (-1), 'cp2'] = s1['cum_power']
+
+
+VK - my_app_123
+51571142
+5d1c322c5d1c322c5d1c322ca85e0edbea55d1c5d1c322c391e3d2c70e27e1e5a88ea32
+
+----------------------
+
+SELECT
+    type1 AS primary_type,
+    type2 AS additional_type,
+    COUNT(*) AS pokemon_count
+FROM sql.pokemon
+GROUP BY 1, 2
+ORDER BY 1, 2 NULLS FIRST
+
+
+
+
+
+
+Специализация Data Science
+Блок 1. Знакомство с данными. Python для анализа данных
+PROJECT-1. Анализ резюме из HeadHunter
+
+
+
+  м. Теплый Стан
+    if s3[:2] == 'м.':
+
+Москва , м. Буль
+
+--------------------------
+
+Добрый день ! Коллеги на проде DEI зависли потоки загрузки из ODS и aCRM в Озеро. Помогите разобраться в чем проблема.
+
+
+
+date - date of publication of the announcement;
+time - the time when the ad was published;
+geo_lat - Latitude
+geo_lon - Longitude
+region - Region of Russia. There are 85 subjects in the country in total.
+building_type - Facade type. 0 - Other. 1 - Panel. 2 - Monolithic. 3 - Brick. 4 - Blocky. 5 - Wooden
+object_type - Apartment type. 1 - Secondary real estate market; 2 - New building;
+level - Apartment floor
+levels - Number of storeys
+rooms - the number of living rooms. If the value is "-1", then it means "studio apartment"
+area - the total area of ​​the apartment
+kitchen_area - Kitchen area
+price - Price. in rubles
+
+
+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
+
+
+вчкллфярсаиврае
+
+клфрира
+
+вячеслав
+
+
+
+Задание 1.18
+1 point possible (graded)
+Выберите верный вариант определения функции standart_z(), которая должна приводить значения NumPy-массива values к новому диапазону (кортеж из двух чисел) new и возвращать преобразованный массив. Глобальные переменные не используются.
+
+
+Задание 2.1 (External resource)
+Напишите функцию apply_discounts(products, stocks), которая снижает цену продуктов в словаре products на указанный в словаре stocks процент. Функция должна вернуть результирующий словарь, ключи которого — товары, а значения — новые цены. Если продукта из словаря stocks нет в словаре products, то его 
+необходимо пропустить.  -- ??????
+
+
+
+Логин: demo10@skillfactory.ru   -- OLD !!!
+Пароль: t9vQJlErQ9WcMi
+
+
+Логин: demo@skillfactory.ru
+Пароль: k0SZ4kEUasr0Fb
+demo2@skillfactory.ru SMmZ0v9hOvkwzK (отредактировано) 
+
+
+Ожидаемый ответ:
+
+long_name                  
+-----------------------
+AS Saint-Étienne           
+Aberdeen                   
+Athletic Club de Bilbao    
+Atlético Madrid            
+Celtic                     
+Chievo Verona              
+Dundee United              
+FC Barcelona               
+FC Lorient                 
+Fiorentina                 
+Genoa                      
+Getafe CF                  
+Girondins de Bordeaux      
+Inter                      
+Juventus                   
+Kilmarnock                 
+LOSC Lille                 
+Lazio                      
+Milan                      
+Motherwell                 
+Málaga CF                  
+Napoli                     
+OGC Nice                   
+Olympique Lyonnais         
+Olympique de Marseille     
+Paris Saint-Germain        
+RCD Espanyol               
+Real Madrid CF             
+Roma                       
+Sevilla FC                 
+Stade Rennais FC           
+Toulouse FC                
+Udinese                    
+Valencia CF                
+
+
+Ваш ответ:
+
+long_name                  
+-----------------------
+AS Saint-Étienne           
+Aberdeen                   
+Athletic Club de Bilbao    
+Atlético Madrid            
+Celtic                     
+Chievo Verona              
+Dundee United              
+FC Barcelona               
+FC Lorient                 
+Fiorentina                 
+Genoa                      
+Getafe CF                  
+Girondins de Bordeaux      
+Inter                      
+Juventus                   
+Kilmarnock                 
+LOSC Lille                 
+Lazio                      
+Milan                      
+Motherwell                 
+Málaga CF                  
+Napoli                     
+OGC Nice                   
+Olympique Lyonnais         
+Olympique de Marseille     
+Paris Saint-Germain    
+    
+       Polonia Bytom              
+
+RCD Espanyol               
+Real Madrid CF             
+Roma                       
+Sevilla FC                 
+Stade Rennais FC           
+Toulouse FC                
+Udinese                    
+Valencia CF                
+ 
+4.3
+Напишите запрос, с помощью которого можно вывести список полных названий команд, сыгравших в гостях 150 и более матчей. Отсортируйте список по названию команды.
+
+SELECT
+    a.long_name
+FROM
+    sql.matches m
+    -- JOIN sql.teams h ON m.home_team_api_id = h.api_id
+    JOIN sql.teams a ON m.away_team_api_id = a.api_id
+group by a.long_name
+having count(m.id) >= 150
+order by a.long_name
+
+
+5.1
+Используя LEFT JOIN, выведите список уникальных названий команд, содержащихся в таблице matches. Отсортируйте список в алфавитном порядке.
+
+
+5.2
+
+SELECT
+    t.long_name ,
+    count(m.id) matches_cnt
+FROM sql.teams t
+  LEFT JOIN sql.matches m  ON 
+    t.api_id = m.home_team_api_id OR t.api_id = m.away_team_api_id
+group by t.long_name 
+order by count(m.id), t.long_name 
+
+SELECT
+    max(t.long_name ) long_name,
+    count(m.id) matches_cnt
+FROM sql.teams t
+  LEFT JOIN sql.matches m  ON 
+    t.api_id = m.home_team_api_id OR t.api_id = m.away_team_api_id
+group by t.id
+order by count(m.id), max(t.long_name )
+
+
+5.3
+SELECT
+    DISTINCT
+    t1.short_name home_team, 
+    t2.short_name away_team
+FROM
+    sql.teams t1
+    CROSS JOIN sql.teams t2
+where t1.short_name <> t2.short_name   -- !!!!!
+order by 1,2
+
+
+NATURAL JOIN 
+
+-----------------------------------
+
+select
+  c1.city_name,
+  max(s1.weight)
+from sql.city c1
+  inner join sql.shipment s1 ON s1.city_id = c1.city_id
+group by c1.city_name
+order by max(s1.weight) desc
+
+select 
+  max(d1.first_name),
+  count(*)
+  --count(distinct t1.make)
+from sql.driver d1
+  JOIN  sql.shipment s1 ON s1.driver_id = d1.driver_id
+  --NATURAL JOIN  sql.shipment s1 
+group by d1.driver_id, s1.cust_id
+order by count(*) desc
+
+
+select 
+  c1.cust_name,
+  count(*)
+from sql.shipment s1 
+  join sql.customer c1 ON c1.cust_id = s1.cust_id
+where to_char(s1.ship_date, 'yyyy') = '2017'
+group by c1.cust_name
+order by count(*) desc
+
+
+New York               31                
+Carrollton             15                
+Temple                 12                
+Huntsville             11 
+
+ 5.2 - ответ не учитывает города, в которые не было доставок   !!!!!!!!!!!!
+429
+566 - my
+
+select 
+  c1.city_name,
+  (case when count(s1.city_id) > 10 then count(s1.city_id) else count(s1.city_id)+5 end) shippings_fake
+from sql.city c1
+  inner join sql.shipment s1 ON s1.city_id = c1.city_id
+group by c1.city_name
+order by 2 desc, 1
+
+-----------------------------  PROJECT 2  -----------------------------
+
+DBNAME = 'project_sql'
+USER = 'skillfactory'
+PASSWORD = 'cCkxxLVrDE8EbvjueeMedPKt'
+HOST = '84.201.134.129'
+PORT = 5432
+
+----------------
+
+
+-----------------------------  BLOCK 3  -----------------------------
+
+with open('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\ErrorEnCoding.csv', 'rb') as fh:
+
+data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\wine.csv')
+
+
+df1 = df1.drop_duplicates(ignore_index=True)
+
+d3 = d3.fillna( {'Опыт работы':d3['Опыт работы'].median()})
+
+
+WARNING: The script phik_trial.exe is installed in 'C:\Users\Glavatskih-DE\AppData\Roaming\Python\Python310\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pandas_profiling.exe and ydata_profiling.exe are installed in 'C:\Users\Glavatskih-DE\AppData\Roaming\Python\Python310\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+pip install dtale
+DEPRECATION: dash-colorscales is being installed using the legacy 'setup.py install' method, because it does not have a 'pyproject.toml' and the 'wheel' package is not installed. pip 23.1 will enforce this behaviour change. 
+A possible replacement is to enable the '--use-pep517' option. Discussion can be found at https://github.com/pypa/pip/issues/8559
+
+
+mean = sum(data['price']) / len(data['price'])
+
+
+
+sns.heatmap(data.corr(), annot = True)
+
+sns.scatterplot(data=data, x="Waist/Hip", y="Waist")
+
+
+
+calls.apply(lambda x: 1 if x['duration'] > 10 else 0, axis=1)
+
+
+clothing_dummies = pd.get_dummies(clothing, columns=['type'])
+
+
+
+wget https://raw.githubusercontent.com/harika-bonthu/Hypothesis-test-examples/main/pizzas.csv -OutFile c:\Dist\fl10.csv -UseBasicParsing
+
+
+
+Файл содержит домашнее задание по теме "Статистические тесты" (EDA-4). Студент - Главатских Дмитрий
+
+
+
+
+Задание 6.2             ???????????????????????
+0/1 point (graded)
+Выберите верные утверждения о нормализации данных:
+
+
+после нормализации среднее значение данных становится равным 0
+после нормализации стандартное отклонение равно 1
++ после нормализации значения данных находятся в диапазоне [0;1] верно
+после нормализации данных данные становятся нормальными
++ нормализация может улучшить качество модели верно
+неверно
+Пояснение
+
+После нормализации данных значения становятся распределены в диапазоне 0-1 или в другом заданном диапазоне. Это преобразование может улучшить результаты модели. Нормализация не приводит стандартное отклонение к 1, это делает стандартизация.
+
+RobustScaler
+
+
+
+h1.iloc[300]
+
+
+ab_data['timestamp'] = pd.to_datetime(ab_data['timestamp'], format='%Y-%m-%d')
+
+daily_data_a.loc[:, 'cum_users_count'] = daily_data_a['users_count'].cumsum()
+
+Try using .loc[row_indexer,col_indexer] = value
+
+daily_data['cum_users_count'] = daily_data.groupby(['group'])['users_count'].cumsum()    #  !!!!!
+
+
+daily_data = ab_data.groupby(['timestamp','group']).agg({
+    'user_id':'count',
+    'converted':'sum'
+}).reset_index().rename(columns={'user_id': 'users_count'})
+
+
+d1.groupby('group')['date'].agg(
+    ['min', 'max']
+)
+
+
+pd.pivot_table(d4, values='purchase', index=['price'],
+                    columns=['group'], aggfunc=['sum'])
+
+64.35, 75.33
+
+
+
+
+
+>>> x.sort()
+>>> x
+['a', 'a', 'a', 'b', 'b', 'b', 'c', 'c', 'c']
+
+>>> for i, j in groupby(x):
+...     print(i, list(j))
+... 
+# a ['a', 'a', 'a']
+# b ['b', 'b', 'b']
+# c ['c', 'c', 'c']
+
+x = list('AAAABBBCCDAABBB')
+# Удаление повторяющихся значений в списке
+>>> [k for k, g in groupby(x)] 
+# ['A', 'B', 'C', 'D', 'A', 'B']
+
+# вывод уникальных значений
+[k for k, g in groupby(sorted(x))] 
+# ['A', 'B', 'C', 'D']
+
+
+
+>>> from ast import literal_eval
+>>> x = "[1,2,3,4]"
+>>> literal_eval(x)
+[1, 2, 3, 4]
+>>> type(literal_eval(x))
+<type 'list'>
+>>>
+
+
+
+cols_with_null.plot(
+    kind='bar',
+    figsize=(10, 4),
+    title='Распределение пропусков в данных'
+);
+
+median_column.plot(kind="hist")
+
+ top_medians.plot(x="Major", y=["P25th", "Median", "P75th"], kind="bar")
+df.plot(x="Median", y="Unemployment_rate", kind="scatter")
+
+df.plot(y='MSFT', figsize=(9,6))
+
+
+cols = cols_with_null.index
+sber_data[cols].hist(figsize=(20, 8));
+
+
+
+----------------------------------
+
+
+ДОБАВЛЕНИЕ НОВЫХ ПРИЗНАКОВ НА ОСНОВЕ ТЭГОВ
+
+from ast import literal_eval
+
+def get_tags_cnt( t1 ):
+    m2 = literal_eval( t1 )
+    return len(m2)
+
+h1.tags.apply( get_tags_cnt )
+
+#h1['tags_cnt'] = h1.tags.apply( get_tags_cnt )
+
+
+Формируем массив m1, содержащий все тэги из набора данных
+
+from ast import literal_eval
+# m0 = []
+m1 = []
+
+for i1 in range(0, h1.shape[0]):
+    m2 = literal_eval(h1.loc[i1,'tags'])
+    
+    m1.extend(m2)
+    # m0.extend([m2])
+    #print(m2)
+
+m1
+
+
+преобразуем массив m1 в датафрэйм df1
+
+df1 = pd.DataFrame(m1, columns=['tag'])
+
+
+удаляем из df1 элементы с информацией о кол-ве ночей (для них у нас уже есть ранее заполненное поле Nights)
+
+df1 = df1[df1.tag.str.count(' Stayed ') == 0]
+
+Группируем датафрэйм по названию тэгов и выделяем из них 15 наиболее часто используемых
+
+#df1.groupby('tag')['tag'].agg(['count'])
+df2 = df1.groupby('tag')['tag'].count()
+df2.shape[0]
+
+
+df2 = df2.sort_values().tail(15)
+
+df2
+
+Создаем бинарные поля для 15-и наиболее часто используемых тэгов
+
+for in1 in df2.index:
+    col1 = in1.strip()
+    str1 = "'" + in1 + "'"
+    h1[col1] = h1.tags.str.count(str1)
+    #print(str1)
+    
+h1.columns
+
+
+
+создали новое поле Nights с кол-вом проведенных ночей, используя только что созданную функцию
+
+
+
+Разработка модели машинного обучения для предсказания рейтинга отеля (целевое поле - reviewer_score) на основе имеющегося набора данных hotels.csv
+Качество решения определяется по метрике MAPE.
+
+EDA_Project_3_model_BASE.ipynb - базовая модель. Особенности: использованы только уже имеющиеся в наборе данных числовые поля, пропуски заполнены значением 0.
+EDA_Project_3_model_1.ipynb - 1-я расширенная модель. Особенности - на наборе данных выполнены все необходимые процедуры: очистка данных, исследование данных, генерация и отбор признаков, преобразование признаков.
+Ключевая особенность - для каждого из 15-и наиболее часто встречающихся значений поля reviewer_nationality создано отдельное бинарное поле. Оставшиеся значения выделены в отдельное поле other.
+EDA_Project_3_model_2.ipynb - 2-я расширенная модель. Имеет единственное отличие от 1-й - поле reviewer_nationality преобразовано в 8 бинарных полей посредством бинарного кодировщика (category_encoders.BinaryEncoder)
+
+---------------------------------
+
+https://github.com/gldmitri/sf_ds2/tree/main/BLOK_3/EDA_Project_3
+
+https://www.kaggle.com/dmitriglavatskih/eda-project-3-model-1
+
+
+
+0.14133165934839664
+0.14137349918338826
+
+
+
+# h1.head(1000).to_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\hotels_2.csv', sep=';')
+
+
+
+Задание 8.4
+0/1 point (graded)
+Вышеперечисленные категориальные признаки уже представлены в числовом виде. Проанализируйте их и назовите те, которые нуждаются в дополнительном кодировании значений (например, OneHotEncoding).
+
+
+
+
+Задание 7
+1/1 point (graded)
+Что такое JOIN?
+Операция объединения
+Операция группировки
+Операция соединения
+Операция создания
+
+
+
+churn_data = pd.read_csv('C:\\Users\\Glavatskih-DE\\Downloads\\PY_kurs\\CSV\\churn_2.zip')
+churn_data.head()
+
+churn_data = churn_data[churn_data['Geography'] == 'Germany']
+#print(churn_data.shape)
+
+churn_data = churn_data.drop(['Geography', 'RowNumber', 'CustomerId', 'Surname'], axis=1)
+#churn_data.head()
+
+churn_data.isnull().sum()
+
+churn_data[churn_data.duplicated()].sum()
+
+churn_data['BalanceSalaryRatio'] = churn_data['Balance'] / churn_data['EstimatedSalary']
+churn_data['TenureByAge'] = churn_data['Tenure'] / churn_data['Age']
+churn_data['CreditScoreGivenAge'] = churn_data['CreditScore'] / churn_data['Age']
+
+churn_data = pd.get_dummies(churn_data)
+
+X = churn_data.drop("Exited", axis=1)
+y = churn_data["Exited"]
+
+
+
+
+
+commet.com
+
+rRoIUGaiEg75BUbtQgThgxhNJ
+med-appointment
+
+from comet_ml import Experiment
+from comet_ml.integration.pytorch import log_model
+
+experiment = Experiment(
+  api_key = "rRoIUGaiEg75BUbtQgThgxhNJ",
+  project_name = "general",
+  workspace="gldmitri"
+)
+
+
+
+https://github.com/gldmitri/sf_ds2.git
+
+git@github.com:gldmitri/sf_ds2.git
+
+git remote add origin https://github.com/gldmitri/sf_ds2.git
+git branch -M main
+git push -u origin main
+
+my_token_1
+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
+
+https://github.com/gldmitri/sf_ds2/blob/main/BLOK_2/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D1%85.ipynb
+
+
+
+С продом DEI сегодня проблемы - полдня висят все запущенные потоки (около 30), перезапуск blaze не помог, в общем логе куча ошибок типа ora-02292 integtation constraint violated (но constraint похоже везде один).
+При этом с Озером похоже все в порядке.
+Конкретного решения у меня нет, возможно поможет перезапуск DIS_DEI
+
+
+Полагаю, возможный источник проблемы - значение поля Cluster configuration и, возможно, password
+
+
+Для инрформации - лица, регулярно регулярно занимающие >40% ресурсов кластера:
+lager-mv (>60% всю прошлую пятницу)
+goldin-ea 
+ledovskih-rvi
+dudukin-ps
+
